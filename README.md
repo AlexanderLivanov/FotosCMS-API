@@ -1,1 +1,1 @@
-"# FotosCMS-API" 
+# FotosCMS-API
